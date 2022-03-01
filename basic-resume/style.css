@@ -1,5 +1,5 @@
 
-/*CSS Document*/
+
 body {
 	font-family: 'Open Sans', Arial, sans-serif;
 	font-size: 1em;
@@ -8,8 +8,7 @@ body {
 }
 
 /*this is my name*/
-#name
-h1 {
+#name {
 font-size: 3em;
 color:  #33485e;
 text-transform:  uppercase;
