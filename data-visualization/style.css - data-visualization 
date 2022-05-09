@@ -1,0 +1,14 @@
+	margin: 0 auto;
+	width:  900px;
+}
+
+#masthead{
+	text-align: center;
+	position: relative;
+	color: lightpink;
+
+}
+
+#masthead img {
+	width: 100%;
+}

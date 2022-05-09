@@ -3,12 +3,34 @@
 
 <head>
 	<title>Yasmine Adailia Cowan</title>
-
+	<link rel="stylesheet" href="style.css">
 
 </head>
 
 
 <body>
+
+
+	<div id="masthead">
+<img src="rally-art.jpg" alt="rally art">
+<div id="centered">The Influence of the #Me Too Movement</div> 
+</div>
+
+<div id="content">
+<h1>Megan Rapinoe Challenges the Perceptions of Women in Sports</h1>
+
+<div id="byline">By Jenny Vrentas | Sports Illustrated</div>
+
+<p>Before the final whistle, before the chants of “Equal pay!” ricocheted around Stade de Lyon, before Megan Rapinoe’s arms were filled with all the trophies a soccer player could possibly earn in one year, first came the tears.</p>
+
+<p>On July 7, in the 61st minute of the 2019 World Cup final against the Netherlands, Rapinoe scored to put the U.S. up 1–0. To her, though, this was more than the goal that would win the Americans a record fourth title. It was the equivalent of flashing double-barrel middle fingers. She’d have loved to have done that just once. But, she says, “there are lines.”</p>
+
+<img src="rapinoe8.jpg" alt="Megan posing proudly" width="900">
+<figcaption> (Source: SI.com) </figcaption>
+
+
+
+
 	<h1>Yasmine's Data Visualization on Sexual Assault and Rape Statistics Nationally</h1>
 
 	<iframe title="Locations Where Sexual Assaults Typically Occur " aria-label="Table" id="datawrapper-chart-lvx8t" src="https://datawrapper.dwcdn.net/lvx8t/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="292"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
